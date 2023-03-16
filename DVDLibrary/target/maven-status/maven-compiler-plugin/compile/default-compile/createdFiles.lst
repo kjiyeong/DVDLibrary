@@ -1,0 +1,9 @@
+com\sk\dvdlibrary\ui\UserIOConsoleImpl.class
+com\sk\dvdlibrary\App.class
+com\sk\dvdlibrary\dao\DvdLibraryDaoException.class
+com\sk\dvdlibrary\dao\DvdLibraryDaoFileImpl.class
+com\sk\dvdlibrary\dto\DvdLibrary.class
+com\sk\dvdlibrary\dao\DvdLibraryDao.class
+com\sk\dvdlibrary\ui\DvdLibraryView.class
+com\sk\dvdlibrary\controller\DvdLibraryController.class
+com\sk\dvdlibrary\ui\UserIO.class
